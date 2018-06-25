@@ -134,7 +134,7 @@ var numCorrect = 0,
 
         RestartGame: function() {
 
-            trivia.arrGamepPool = [];
+            trivia.arrGamePool = [];
             timeLeft = 15;
             numCorrect = 0;
             numIncorrect = 0;
@@ -287,7 +287,7 @@ var numCorrect = 0,
         });
         trivia.arrTriviaPool.push({
             id: 22,
-            question: "During the war of 1812, who was the United States fighting against?",
+            question: "During the War of 1812, who was the United States fighting against?",
             choices: ["Great Britain","Spain","Russia","France"],
             answer: 0
         });
@@ -305,7 +305,7 @@ var numCorrect = 0,
         });
         trivia.arrTriviaPool.push({
             id: 25,
-            question: "What are positive integers greater than 1 and are divisible by one and themselves?",
+            question: "What are positive integers greater than 1 that are divisible by one and themselves?",
             choices: ["Negative numbers","Prime numbers","Odd integers","Even integers"],
             answer: 1
         });
