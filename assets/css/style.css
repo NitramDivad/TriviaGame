@@ -1,0 +1,55 @@
+body {
+    background-image: url("../images/trivia-background.jpg");
+    background-size: cover;
+    color: black;
+}
+
+.container {
+    background-color: lightyellow;
+    background: rgba(252, 248, 1, 0.75);
+    padding-bottom: 30px;
+    margin-top: 15px;
+    opacity: 25%;
+}
+
+#main-title {
+    margin-bottom: 50px;
+}
+
+.progress {
+    margin-bottom: 15px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+#btn0, #btn1, #btn2, #btn3 {
+    width: 400px;
+    height: 50px;
+    margin-bottom: 10px;
+}
+
+#question {
+    font-size: 30px;
+    margin-top: 36px;
+}
+
+#gameOver {
+    margin-bottom: 15px;
+}
+
+#unanswered {
+    margin-bottom: 35px;
+}
+
+.col-centered {
+    float: none;
+    margin: 0 auto;
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+footer {
+    color: white;
+}
