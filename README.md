@@ -20,3 +20,5 @@ The game will follow the general theme of a Trivia Challenge focusing on Math & 
 
 [David Martin](mailto:webdevelopment.du@gmail.com)
 [GitHub](https://github.com/nitramdivad)
+
+[Launch Site](https://github.com/nitramdivad/TriviaGame/)
